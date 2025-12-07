@@ -2,4 +2,6 @@
 ## This is a Secondary Header
 ### This is a Tertiary Header
 
-This is an example of some markdown headers.
+This is an example of markdown-formatted content.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
